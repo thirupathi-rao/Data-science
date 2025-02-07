@@ -1,0 +1,128 @@
+GPA,Gender,breakfast,calories_day,coffee,comfort_food,cuisine,eating_changes_coded1,father_education,father_profession,fav_cuisine,fav_cuisine_coded,fav_food,fries,fruit_day,marital_status,mother_education,mother_profession
+2.4,2,1,nan,1,none,nan,1,5,profesor ,Arabic cuisine,3,1,2,5,1,1,unemployed
+3.654,1,1,3,2,"chocolate, chips, ice cream",1,2,2,Self employed ,Italian,1,1,1,4,2,4,Nurse RN 
+3.3,1,1,4,2,"frozen yogurt, pizza, fast food",3,3,2,owns business,italian,1,3,1,5,2,2,owns business
+3.2,1,1,3,2,"Pizza, Mac and cheese, ice cream",2,3,2,Mechanic ,Turkish ,3,1,2,4,2,4,Special Education Teacher
+3.5,1,1,2,2,"Ice cream, chocolate, chips ",2,4,4,IT,Italian ,1,3,1,4,1,5,Substance Abuse Conselor
+2.25,1,1,3,2,"Candy, brownies and soda.",nan,3,1,T,African,6,3,1,2,2,1,Hair Braider
+3.8,2,1,3,2,"Chocolate, ice cream, french fries, pretzels",1,5,4,Assembler ,Thai,4,1,1,4,1,4,Journalist
+3.3,1,1,3,1,"Ice cream, cheeseburgers, chips.",1,5,3,Business guy,Anything american style.,5,1,1,5,1,2,cook
+3.3,1,1,nan,1,"Donuts, ice cream, chips",1,8,5,High School Principal,Seafood,1,3,1,4,2,5,Elementary School Teacher
+3.3,1,1,3,2,"Mac and cheese, chocolate, and pasta ",1,3,5,commissioner of erie county ,Italian ,1,1,1,5,2,5,Pharmaceutical rep
+3.5,1,1,3,2,"Pasta, grandma homemade chocolate cake anything homemade ",1,4,2,Idk,Orange chicken and chow mani noodles ,4,1,1,5,1,4,Chidos Cleaners
+3.904,1,1,4,2,"chocolate, pasta, soup, chips, popcorn",1,5,3,Home Marker ,Italian,1,1,1,5,2,4,10
+3.4,2,1,3,2,"Cookies, popcorn, and chips",1,5,3,Shirt designer ,Chinese ,4,3,1,4,2,4,Child care provider 
+3.6,1,1,3,2,"ice cream, cake, chocolate",1,3,2,business owner,italian,1,1,1,5,2,4,business owner
+3.1,2,1,3,2,"Pizza, fruit, spaghetti, chicken and Potatoes  ",1,4,4,Commidity trader ,Chinese ,4,3,1,5,1,4,Charity worker
+nan,2,2,nan,2,"cookies, donuts, candy bars",1,Four,5,Hockey Coach,italian food,1,2,1,3,2,4,Librarian
+4,1,1,3,10001,"Saltfish, Candy and Kit Kat ",nan,5,1,C,Jamaican ,Seven,1,1,5,2,2,Police
+3.6,2,1,3,2,"chips, cookies, ice cream",1,2,2,self employed construction ,American or Italian ,5,3,1,3,2,2,stay at home mom
+3.4,1,1,3,1,"Chocolate, ice crea ",1,6,5,Engineer,Chicken ,5,3,1,5,2,3,Daycare provider
+2.2,2,1,2,2,"pizza, wings, Chinese",1,4,5,architect,Italian,1,1,1,2,1,4,physical therapist
+3.3,2,1,3,2,"Fast food, pizza, subs",1,3,5,CFO,Mexican,2,3,1,2,1,4,Teacher
+3.87,2,1,3,1,"chocolate, sweets, ice cream",3,8,4,European logistics director ,Indian,8,2,1,3,2,2,House wife
+3.7,2,1,3,1,"burgers, chips, cookies",2,3,4,accountant ,italian ,1,1,2,4,1,4,Underwiriter 
+3.7,2,2,3,2,"Chilli, soup, pot pie",1,7,4,Commercial Real Estate,,4,1,1,3,1,2,Beautician 
+3.9,1,1,2,2,"Soup, pasta, brownies, cake",1,2,3,Manager at Pepsi,Chinese,4,1,1,4,2,2,Unemployed
+2.8,1,2,3,2,"chocolate, ice cream/milkshake, cookies",1,4,4,VP of ,don't have one,0,3,1,4,1,3,Medical biller
+3.7,2,1,2,1,"Chips, ice cream, microwaveable foods ",1,3,4,Beverage and Food Sales,Italian food ,1,1,1,3,2,2,Doctors Billing Assiant 
+3,2,1,4,2,"Chicken fingers, pizza ",1,5,5,Dentist ,Mexican ,2,1,1,5,2,5,Dentist 
+3.2,2,1,2,2,"cookies, hot chocolate, beef jerky",2,3,4,Electrical Engineer,Italian/German,1,1,1,3,1,4,Air Traffic Controller
+3.5,2,1,2,2,"Tomato soup, pizza, Fritos, Meatball sub, Dr. Pepper",nan,3,5,Radio Telecommunications Manager,Indian food - samosas are amazing,8,1,1,5,1,5,Strategic Planning and Programs Manager
+4,1,1,3,2,"cookies, mac-n-cheese, brownies, french fries, ",1,7,2,nan,mexican,2,2,1,3,2,5,teacher
+4,2,1,3,2,"chips and dip, pepsi, ",1,4,4,deceased,italian,1,1,1,5,1,2,management
+3.4,2,1,3,2,"Grandma's Chinese, Peruvian food from back home, and sushi",nan,3,5,Lawyer,Spanish,2,nan,1,4,1,5,Lawyer
+2.8,1,1,3,1,"Ice cream, cookies,  Chinese food, and chicken nuggets ",2,3,4,landscaping ,Italian ,1,1,1,3,1,nan,unemployed
+3.65,1,1,3,2,"french fries, chips, ice cream",1,3,4,Vice President of a company,French,1,3,1,5,1,4,stylist
+3,1,1,2,2,"mac n cheese, peanut butter and banana sandwich, omelet",1,3,4,Owns his own promotional company ,American or Italian,5,1,1,5,2,4,Works in retail
+3.7,1,1,3,2,"pizza, doughnuts, mcdonalds ",nan,8,5,Optometrist ,Italian or Chinese ,1,3,1,5,1,2,Homemaker 
+3.4,1,1,4,2,"chocolate, chips, candy",6,3,2,Construction ,Italian,1,1,1,3,2,3,Head of Human Resouces
+3.89,1,1,3,2,"chocolate, popcorn, ice cream",1,2,4,Biohemical Waste Elimination,italian,1,1,1,4,2,4,Accountant
+3,2,1,nan,2,"CandyPopChocolate Chipotle Moe's ",1,2,5,Corporate Manager ,Mexican ,2,1,1,5,2,2,Marketing Analyst
+3.4,2,1,3,1,"Pizza, Ice cream, fries, cereal, cookies  ",1,9,4,Small business owner ,Italian ,1,1,1,3,1,4,Middle school teacher
+2.9,1,1,4,2,"Ice cream, chocolate, twizzlers ",1,3,2,Welder,Italian ,1,1,1,5,1,3,Art teacher 
+3.6,1,1,3,2,"ice cream, cookie dough, cookies, cheese",1,3,4,Design Engineer,Italian,1,1,1,5,1,4,Account Clerical 
+3.5,1,1,2,1,"ice cream, cereal, and salt and vinegar chips ",1,5,2,Unknown ,chinese,4,3,1,4,2,2,Caretaker
+3.2,1,1,4,2,"Potato chips, ice cream, chocolate, cookies",1,4,4,Electrical Engineer,Thai food,4,1,1,5,1,2,Secretary
+3.605,1,1,3,18372,"Mac and cheese, fried chicken, cornbread ",1,5,4,Banker,Greek,1,1,1,5,2,4,Registered Nurse
+3.8,2,1,2,1,"popcorn, chips, candy, & fries ",1,2,3,subcontractor ,Italian ,1,1,1,4,1,4,telemarketer 
+2.8,2,1,nan,2,"Chex-mix, Wegmans cookies, Cheez-Its ",1,3,5,small business owner ,Italian ,1,3,1,5,1,5,nurse
+3.5,2,2,nan,1,"pizza, ice cream, chips",1,3,4,House Appraiser,Asian ,4,1,1,5,1,4,Banker
+3.83,2,1,3,2,"fried chicken. mashed potatoes, mac and cheese",2,3,2,not sure,Italian ,1,1,1,3,2,4,Office assistant
+3.6,2,1,3,2,"Popcorn, Chex Mix, Pizza",1,5,3,Fireman,American,5,2,1,4,1,2,Secretary
+3.3,2,1,4,1,Burger,1,3,2,President of Automotive company ,All ,0,1,1,5,1,2,Stay home
+3.3,2,1,4,2,"Pizza, chocolate, and ice cream ",1,3,3,UPS driver ,Mexican ,2,1,1,5,1,2,Unemployed 
+3.292,2,1,nan,2,"fries, chips, fried chicken, pizza, grapes",1,4,2,HVAC Professional,Sub sandwhiches,5,3,1,4,1,5,"Counseling, Teaching, Geologist, Psychic"
+3.5,2,1,3,2,"peanut butter sandwich, pretzals, garlic bread",2,5,4,Sergeant correctional officer,Italian,1,1,2,5,1,5,Teacher
+3.35,1,2,2,2,"chips, dip, fries, pizza",nan,10,1,union worker,italian,1,1,1,4,1,3,factory worker
+3.8,28362,1,4,2,"Pizza, Ice Cream, Chicken Wings",1,5,4,Salesman,Thai,4,1,1,5,1,4,Nurse
+2.8,1,1,4,2,Pizza chocolate chips bagels ice Capps ,1,5,2,Owns his business,Wraps ,5,3,2,4,1,4,Sales
+3.5,1,1,3,2,"Chocolate, ice cream, pasta",2,11,4,Physical Therapist,Mexican,2,1,2,5,1,5,Elementary School Principal
+3.7,1,1,nan,2,Mac n Cheese. Chips and salsa. Ice cream. ,1,11,4,Insurance ,Italian ,1,3,1,5,1,4,Real Estate Agent 
+3.6,1,1,4,2,"peanut butter, dessets, pretzels. ",1,4,4,Construction management ,Mexican ,2,1,1,5,1,4,X-ray tech
+Personal ,1,1,2,2,"Macaroons, truffles, peanut butter n chocolate ice cream",nan,5,2,Dead beat ,Mexican ,2,2,2,3,2,4,Respiratory Therapist
+3.9,2,1,4,2,"ice cream, cookies, ice cream",1,5,2,police force,Italian,1,1,1,4,1,2,Legal assistant
+2.6,1,1,4,2,"carrots and ranch, pretzels, dark chocolate ",2,4,4,VP of GNC,Italian ,1,1,1,5,2,4,dietitian 
+3.5,1,1,3,1,"cookies, nutella, ice cream, coffee, fruit ",1,3,2,Owner of New York Lunch,Chinese cuisine (General Tso's),4,3,1,5,2,2,CNA 
+3.2,1,1,nan,2,mac and cheese,2,11,5,Dentist,Italian,1,3,1,3,2,nan,Periodontist
+3,1,1,3,1,"Chocolate, Popcorn, Icecream",1,3,2,mechanic ,American ,5,1,1,5,2,4,business
+3.89,1,1,3,2,"chocolate, popcorn, ice cream",1,2,4,Biohemical Waste Elimination,italian,1,1,1,4,2,4,Accountant
+3.2,1,1,3,1,"Chips, Mac and cheese, pizza, French fries ",1,3,5,Dentist ,Italian ,1,1,1,5,2,5,school teacher
+3.67,1,2,4,2,"Pizza, burritos, slim jims",nan,3,4,Sales Manager ,Italian,1,1,1,3,2,4,Homemaker
+3.73,1,1,3,2,"Broccoli, spaghetti squash, quinoa, and grilled chicken",1,8,4,Retired - Bus Driver,Italian,1,1,2,5,2,2,Stay-At-Home Mom
+4,1,1,nan,2,"Chocolate, ice cream, cookie dough",1,11,2,Transportation ,Italian ,1,1,2,5,2,4,Social Services
+3.1,2,2,3,2,"pizza, pretzels, fruit snacks, deli sandwhich",1,3,nan,Police Officer,Lean,0,2,1,5,1,4,Runs a Daycare
+3.7,2,1,4,2,"Chips, ice cream",1,12,4,Risk Manager,Mexican,2,1,1,3,2,2,Customer Service
+3.5,2,1,nan,2,"Doritos, mac and cheese, ice cream",1,2,4,Supervisor,American,5,3,1,4,2,4,Treasurer
+2.71,2,2,2,1,nan,4,4,1,retire,nan,0,2,1,4,4,1,nan
+3,1,1,3,2,"mac and cheese, potato soup, ice cream, chips and cheese",1,3,4,car salesman,italian ,1,1,1,5,2,4,RN
+3.7,1,2,3,1,"chocolate, pizza, and mashed potatoes",1,3,2,dairy farmer,american ,5,3,1,4,1,5,program director
+3.1,2,2,2,283731,Pizza cookies steak ,1,13,2,Dairy Farmer ,American ,5,2,1,3,2,5,Programs coordinator 
+3,1000001,1,3,2,"chocolate, fruit, and ice cream",1,2,2,self employed,Japanese,4,1,2,5,2,2,self employed
+3.9,2,1,3,2,Chips sweets popcorn,1,7,3,Contract negotiations,Chinese,4,1,1,5,1,2,none
+3.4,1,1,2,2,"Cookies, burgers, chicken noodle soup, ice cream",1,3,2,Police Officer ,Italian,1,3,1,3,1,4,Legal Secretary
+3.5,1,2,3,1,"cake, French fries, chicken nuggets",1,3,4,IT,Italian,1,1,1,4,2,4,secretary 
+3.7,1,1,nan,2,"pizza, ice cream, cookies",1,3,4,Works for Kirila Fire,Italian,1,1,1,3,1,4,works in Loans department in First National Bank
+3.7,1,1,3,2,"Mashed potatoes, pasta",1,2,2,Realtor,Any type of Colombian cuisine,2,1,1,4,nan,1,Janitor
+3.83,1,1,3,2,"Pasta dishes, Cheesecake, Pancakes",1,5,4,Solar Engineering ,Mexican cuisine,2,3,1,5,2,3,Yoga Instructor 
+3,1,1,3,2,"Chinese food, moes, sponge candy, homemade lasagne ",1,5,2,Service Technition,Chinese food,4,3,1,5,1,4,Sales Manager at Business First
+3,1,1,3,2,"Chinese food, moes, sponge candy, homemade lasagne ",1,5,2,Service Technition,Chinese food,4,3,1,5,1,4,Sales Manager at Business First
+3.2,2,1,3,1,"pizza, pasta, mac and cheese",1,3,4,engineer ,mac and cheese,5,2,1,4,1,5,principal 
+3.5,2,2,4,2,"Little Debbie snacks, donuts, pizza",1,5,2,handyman,Mexican,2,1,1,4,1,nan,home cleaner
+3.2,1,1,3,2,"carrots, plantain chips, almonds, popcorn ",nan,5,4,cross-guard ,Authentic Chinese and Vietnamese food ,4,1,2,5,1,2,A teacher 
+3.68,2,1,4,2,"chips, ice cream, fruit snacks",nan,5,2,Project manager,italian and chinese,One,1,1,5,1,3,Secretary 
+3.8,1,2,2,193732,"Macaroni and cheese, chicken noodle soup, pizza",1,3,5,Teacher,American,5,3,1,2,2,5,nan
+3.3,2,2,nan,2,"Chocolate, Chips, Ice cream, French Fires, Pizza",1,5,2,T$,Barbecue ,5,1,1,1,2,3,Customer Service Representative 
+3.2,2,1,nan,2,"Mac and cheese, lasagna, Chinese food ",1,2,5,Senior Manager,Italian,1,1,1,4,1,4,Stay at home mother
+3.75,2,1,3,2,"candy, Chinese, mcdonalds",nan,3,4,information systems architect,lebanese or greek,1,1,1,5,2,4,teacher
+3.5,2,1,nan,2,"Doritos, mac and cheese, ice cream",1,2,4,Supervisor,American,5,3,1,4,2,4,Treasurer
+3.92,2,1,3,2,"Ice cream, cake, pop, pizza, and milkshakes.",2,5,2,Delivery Man For Fritolay,Italian,1,3,1,3,1,5,Special Ed Teacher
+3.9,1,1,3,2,"Mac and Cheese, Pizza, Ice Cream and French Fries ",1,5,5,nan,Italian,1,1,1,5,1,3,Accountant 
+3.9,2,1,3,1,"Soup, pasta, cake",6,5,4,Business Owner,Italian,1,nan,1,5,2,2,Homemaker
+3.2,1,1,4,1,"mac & cheese, frosted brownies, chicken nuggs",2,5,3,business owner,italian,1,1,1,5,2,4,certified accountant
+3.5,1,1,3,2,"watermelon, grapes, ice cream",1,3,2,Beacon Light ,Italian ,1,1,1,5,2,2,nan
+3.4,1,1,nan,2,"macaroni and cheese, stuffed peppers, hamburgers, french fries",1,11,4,salesman,sushi,4,3,1,5,1,4,social worker
+nan,1,1,4,2,"Pizza, mashed potatoes, spaghetti",1,5,5,Mechanical Engineer,Italian,1,3,1,5,1,5,Secretary
+3.7,1,1,3,2,"dark chocolate, terra chips, reese's cups(dark chocolate), and bread/crackers with cottage cheese",1,3,4,GE Salesman,Indian food,8,1,1,5,1,4,Respiratory Therapist
+Unknown,1,1,3,2,"Chips, chocolate, ,mozzarella sticks ",1,2,4,Business Owner,Italian ,1,3,1,4,1,3,Substitute Secretary
+3,1,1,3,2,"ice cream, chips, candy",1,10,4,Ford Plant employee,Italian,1,3,1,3,2,3,Insurance Coordinator
+3,1,1,3,2,"Pizza, soda, chocolate brownie, chicken tikka masala and butter naan ",nan,12,5,Clinical Researcher,Nepali,4,1,1,5,1,4,Supervisor
+3.8,1,1,3,1,"Chocolate, Pasta, Cookies",1,2,3,Retired ,I really love italian food and thai food,1,3,1,4,1,3,Travel Agent
+3.8,1,1,2,2,"Candy, salty snacks, toast",1,2,4,Sales,Italian,1,2,1,5,2,3,Real Estate
+3.4,1,1,3,2,"Mac in cheese, pizza, mozzarella sticks ",1,5,5,School Library Media Specialist ,I,1,2,1,4,1,5,School Library Media Specialist 
+3.7,1,1,3,1,"Ice-cream, pizza, chocolate",2,3,4,Retired,Italian,1,1,1,3,2,4,Deceased
+2.9,2,1,2,2,"snacks, chips, ",nan,5,2,nan,nan,0,1,1,3,1,2,nan
+3.9,1,1,4,2,"Chocolate, Ice cream, pizza",1,5,5,Mechanical Engineer ,Italian ,1,3,1,5,2,5,Fourth Grade Teacher 
+3.6,1,1,2,1,"ice cream, pizza, Chinese food ",1,2,4,Teacher,Italian ,1,1,1,4,2,4,Accountant 
+2.8,2,1,3,2,"Burgers, indian and korean food",4,10,5,Politician,Korean,4,3,1,4,2,5,"Works in WWF, world wild life fund"
+3.3,2,1,4,2,"chocolate bar, ice cream, pretzels, potato chips and protein bars.",1,3,5,Pharmaceutical,I do not like cuisine,0,3,1,5,2,5,nan
+3.4,1,1,nan,2,"Ice cream, chocolate, pizza, cucumber ",nan,3,3,Business Man,Chinese ,4,2,1,5,1,3,Business Woman
+3.77,1,1,nan,2,"Noodle ( any kinds of noodle), Tuna sandwich, and Egg.",4,5,2,His own business,Vietnamese cuisine,4,3,1,3,1,2,Her own business
+3.63,1,1,3,1,"Chinese, chips, cake",1,5,2,HVAC technician ,American ,5,1,1,5,2,2,Grieveance coordinator of the SCI albion prison 
+3.2,2,1,3,2,"chips, rice, chicken curry,",5,5,5,United Nations,Indian,8,3,1,5,2,5,Banker
+3.5,1,1,4,2,"wine. mac and cheese, pizza, ice cream ",1,3,4,Accountant ,Italian ,1,1,1,5,1,3,Radiological Technician 
+3,1,1,2,2,Pizza / Wings / Cheesecake,nan,3,5,Doctor,Mexican Food,2,1,1,4,1,2,Public Health Advisor 
+3.882,1,1,nan,1,"rice, potato, seaweed soup",nan,3,5,CEO of company,Korean,4,1,1,4,1,1,Real Estate manageer
+3,2,1,4,1,"Mac n Cheese, Lasagna, Pizza",1,8,3,Store manager at Giant Eagle,Italian,1,3,1,5,1,2,Receptionist for a medical supply company
+3.9,1,1,nan,2,"Chocolates, pizza, and Ritz.",3,5,4,Journalist,HISPANIC CUISINE.,2,1,1,3,2,3,House-wife
+3.9,1,1,nan,2,"Chocolates, pizza, and Ritz.",3,5,4,Journalist,HISPANIC CUISINE.,2,1,1,3,2,3,House-wife
